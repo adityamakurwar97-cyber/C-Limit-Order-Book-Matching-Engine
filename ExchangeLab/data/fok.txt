@@ -1,0 +1,5 @@
+# Failed FOK leaves book unchanged; next FOK fills completely.
+SELL 1 10000 30 GTC
+SELL 2 10001 20 GTC
+BUY 3 10000 40 FOK
+BUY 4 10001 50 FOK

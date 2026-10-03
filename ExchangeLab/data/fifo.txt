@@ -1,0 +1,5 @@
+# ID does not define priority. ID 90 arrived before ID 2.
+SELL 90 10000 40 GTC
+SELL 2 10000 60 GTC
+BUY 3 10000 20 GTC
+BUY 4 10000 30 GTC

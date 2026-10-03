@@ -1,0 +1,5 @@
+# Three fills, last level partially consumed. 260 requested = 80+140+40.
+SELL 1 10002 80 GTC
+SELL 2 10003 140 GTC
+SELL 3 10004 110 GTC
+BUY 4 10004 260 IOC
